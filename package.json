@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "mobx": "^6.3.2"
+  },
+  "scripts": {
+    "dev": "node build/complie"
+  },
+  "devDependencies": {
+    "standard": "^16.0.3"
+  }
+}
